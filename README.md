@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnS007
-- 👀 I’m interested in Web/Application Development
-- 🌱 I’m currently learning Spring Framework along with Hibernate
-- 💞️ I’m looking to work on open source Spring projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m a working professional, always looking to solve the next problem
+- 💞️ I have keen interest in improving my problem-solving skills.
 
 <!---
 JohnS007/JohnS007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
